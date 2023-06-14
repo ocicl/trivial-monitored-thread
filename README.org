@@ -1,10 +1,10 @@
 * trivial-monitored-thread
 
+A Common Lisp library offering a way of spawning threads and being
+informed when one any of them crash and die.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ediethelm/trivial-monitored-thread.git   |
-| commit  | {"messa  |
-| systems | trivial-monitored-thread |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-monitored-thread.git |
+| commit  | 95965e8ec0f                                                   |
+| systems | trivial-monitored-thread                                      |
+|---------+---------------------------------------------------------------|
